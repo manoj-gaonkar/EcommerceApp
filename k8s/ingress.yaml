@@ -14,7 +14,7 @@ spec:
         pathType: Prefix
         backend:
           service:
-            name: hello-world-service
+            name: ecommerce-service
             port:
               number: 80
   tls:
