@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: display terraform
         run: |
-      echo "Terraform infra"
+        echo "Terraform infra"
